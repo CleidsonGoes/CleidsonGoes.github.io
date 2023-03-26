@@ -1,0 +1,25 @@
+#Cleidson {
+    color: aqua;
+    background-color: darkblue;
+    text-align: center;
+    text-decoration: underline;
+}
+.contact {
+    color: aquamarine;
+    background-color: darkblue;
+}
+a {
+    color: aqua;
+    background-color: black;
+}
+body {
+    font-size: 18px;
+    background-color: pink;
+}
+#list {
+    color: aquamarine;
+    background-color: green;
+    font-weight: bold;
+    line-height: 30px;
+    
+}
