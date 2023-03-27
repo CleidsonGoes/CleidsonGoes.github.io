@@ -1,0 +1,21 @@
+body h1 {
+    text-align: center;
+    }
+    
+    #Minhafoto {
+    float: left;
+    background-color: lightseagreen ;
+    padding: 10px;
+    }
+    #sobreMim {
+    position: absolute;
+    left: 180px;
+    }
+    
+    #ContatosHardskills {
+    position: absolute;
+    top: 240px;
+    }
+    div h3 {
+    margin-left: 25px;
+    }
